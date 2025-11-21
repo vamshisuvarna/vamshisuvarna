@@ -7,23 +7,23 @@ INSTRUCTIONS:
 1. Fork this repo to your own account and name the repo with your github user id to get it displayed in the profile.
 2. Edit this README.md.
 3. Everywhere you see TODO, replace it with YOUR details.
-4. Everywhere you see `gaureshpai` or my links, replace with YOUR username / links.
+4. Everywhere you see `vamshisuvarna` or my links, replace with YOUR username / links.
 -->
 
 <!-- Header -->
 <h1 align="center">
-  Hi there! 👋 I'm <!-- TODO: Your first name here --> Gauresh
+  Hi there! 👋 I'm <!-- TODO: Your first name here --> vamshisuvarna
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
 <!--
 TODO:
-- Change `gaureshpai` below to YOUR GitHub username
+- Change `vamshisuvarna` below to YOUR GitHub username
 - You can also change color or style if you want
   Docs: https://komarev.com/ghpvc/
 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaureshpai&style=flat-square&color=blue" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=vamshisuvarna&style=flat-square&color=blue" alt="Profile views">
 </p>
 
 <!--
@@ -32,13 +32,13 @@ TODO:
 - If you don't have one, just remove that badge
 -->
 <p align="center">
-  <a href="https://linkedin.com/in/gaureshpai"><!-- TODO: Your LinkedIn URL -->
+  <a href="https://linkedin.com/in/vamshisuvarna"><!-- TODO: Your LinkedIn URL -->
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/hseruag"><!-- TODO: Your Twitter/X URL (or remove) -->
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://gauresh.vercel.app"><!-- TODO: Your portfolio URL (or GitHub profile link) -->
+  <a href="https://vamshisuvarna.vercel.app"><!-- TODO: Your portfolio URL (or GitHub profile link) -->
     <img src="https://img.shields.io/badge/-Portfolio-E34F26?style=flat-square" alt="Portfolio">
   </a>
 </p>
@@ -64,21 +64,21 @@ TODO: Write 3–4 short points about yourself.
   <!--
   TODO:
   - Go to https://holopin.io, sign in, and get your own badge link if you want.
-  - Replace `gaureshpai` with YOUR Holopin username.
+  - Replace `vamshisuvarna` with YOUR Holopin username.
   - Or delete this block if you don't use Holopin.
   -->
-  <a href="https://holopin.io/@gaureshpai">
-    <img src="https://holopin.me/gaureshpai" alt="Holopin badges">
+  <a href="https://holopin.io/@vamshisuvarna">
+    <img src="https://holopin.me/vamshisuvarna" alt="Holopin badges">
   </a>
 
   <br><br>
 
   <!--
   TODO:
-  - Change `username=gaureshpai` to YOUR GitHub username
+  - Change `username=vamshisuvarna` to YOUR GitHub username
   -->
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaureshpai&theme=radical" alt="GitHub Summary Card">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vamshisuvarna&theme=radical" alt="GitHub Summary Card">
   </a>
 
 </div>
@@ -91,20 +91,20 @@ TODO: Write 3–4 short points about yourself.
 
   <!--
   TODO:
-  - Change `username=gaureshpai` to YOUR GitHub username in both images
+  - Change `username=vamshisuvarna` to YOUR GitHub username in both images
   -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaureshpai&theme=default" alt="Top Languages by repo">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaureshpai&theme=default" alt="Top Languages by commit">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vamshisuvarna&theme=default" alt="Top Languages by repo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vamshisuvarna&theme=default" alt="Top Languages by commit">
 
   <br><br>
 
   <!--
   TODO:
-  - Change `username=gaureshpai` to YOUR GitHub username
+  - Change `username=vamshisuvarna` to YOUR GitHub username
   - You can change theme and show_icons at: https://github.com/anuraghazra/github-readme-stats
   -->
-  <a href="https://github.com/gaureshpai">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaureshpai&show_icons=true&theme=tokyonight" alt="GitHub stats">
+  <a href="https://github.com/vamshisuvarna">
+    <img src="https://github-readme-stats.vercel.app/api?username=vamshisuvarna&show_icons=true&theme=tokyonight" alt="GitHub stats">
   </a>
 
 </div>
@@ -119,7 +119,7 @@ TODO:
 - You can read and follow one by one.
 -->
 
-1. Replace **all occurrences** of `gaureshpai` with **your GitHub username**.  
+1. Replace **all occurrences** of `vamshisuvarna` with **your GitHub username**.  
 2. Update LinkedIn / Twitter / Portfolio links to YOUR actual links (or remove if not applicable).  
 3. Edit the **About me** section to describe YOU.  
 4. Push your changes and check how your profile looks on your GitHub profile page.  
